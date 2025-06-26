@@ -89,21 +89,21 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | What are the independent (or predictor) and dependent (or outcome) variables for the test, and what is the level of measurement for each one? |
 | IV:<br><br>DV:<br><br> |
 | What are the assumptions for the statistical test used? Do the data in the dataset meet those assumptions? If not, should an alternative test be selected or are any adjustments necessary to conduct a meaningful test? |
-| $\textcolor{red}{Update \ this \ section:}$ <br>sample is randomly selected from population<br>Observations are independent<br>data are normally distributed (residuals are normally distributed)<br>homogeneity of variance<br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>sample is randomly selected from population<br>Sphericity (replaces observations are independent)<br>data are normally distributed (residuals are normally distributed)<br>homogeneity of variance<br> |
 | NHST steps: |
 | These steps should be followed for each statistical test conducted as part of a study. |
 | 1. State the null and alternative hypothesis. |
-| $\textcolor{red}{Update \ this \ section:}$ <br>Interaction Effect:<br>H0: There is no interaction between Factor 1 and Factor 2<br><br>H1: There is an interaction between Factor 1 and Factor 2s<br><br>Main Effect #1:<br>H0: There is no difference between group means for Factor 1<br><br>H1: There is a difference between group means for Factor 1<br><br>Main Effect #2:<br>H0: There is no difference between group means for Factor 2<br><br>H1: There is a difference between group means for Factor 2<br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>Interaction Effect:<br>H0: There is no interaction between Factor 1 and Factor 2<br><br>H1: There is an interaction between Factor 1 and Factor 2s<br><br>Within-subjects Effect #1:<br>H0: There is no difference between observation means for Factor 1<br><br>H1: There is a difference between observation means for Factor 1<br><br>Between-subjects Effect #2:<br>H0: There is no difference between group means for Factor 2<br><br>H1: There is a difference between group means for Factor 2<br><br> |
 | 2. Establish the criteria for rejection (alpha level). |
 | Typically alpha = .05<br><br><br><br> |
 | 3. Calculate the test statistic. |
-| $\textcolor{red}{Update \ this \ section:}$ <br>Interaction effect:<br>F(df between, df within) = [F-value], p = [p-value]<br><br>Main effect #1:<br>F(df between, df within) = [F-value], p = [p-value]<br><br>Main effect #2:<br>F(df between, df within) = [F-value], p = [p-value]<br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>Interaction effect:<br>F(df model, df residual) = [F-value], p = [p-value]<br><br>Within-subjects effect #1:<br>F(df model, df residual) = [F-value], p = [p-value]<br><br>Between-subjects effect #2:<br>F(df model, df residual) = [F-value], p = [p-value]<br>(You need to decide if you'll interpret Greenhouse-Geisser, Huynh-Feldt, or Multivariate results. Be sure to report degrees of freedom for appropriate correction.)<br><br> |
 | 4. Make a decision about the null hypothesis. (Reject or fail to reject?) |
 | $\textcolor{red}{Update \ this \ section:}$ <br>Interraction effect: reject or fail to reject H0?<br><br>Main effect #1: reject or fail to reject H0?<br><br>Main effect #2: reject or fail to reject H0?<br><br> |
 | Are any post-hoc or follow-up analyses needed? |
 | $\textcolor{red}{Update \ this \ section:}$ <br>Describe which post-hoc test(s) you run and your rationale for choosing the test(s).<br><br><br><br> |
 | What is the effect size? What is the interpretation of the effect size? |
-| $\textcolor{red}{Update \ this \ section:}$ <br>partial eta squared (.01-small, .06-medium, .14-large) = <br><br>or omega squared (.06-small, .14-medium, >.14-large) = <br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>partial eta squared (.01-small, .06-medium, .14-large) = <br><br>or omega squared (.06-small, .14-medium, >.14-large) = <br>(You should strongly consider calculating omega squared and reporting that.)<br><br> |
 | Can a Bayes Factor be calculated? What is the interpretation of the Bayes Factor? |
 | B01 (null supported) or B10 (alternative supported) = (1-3 negligible evidence, 3-20 moderate evidence, 20-150 strong evidence, >150 very strong evidence)<br><br><br><br> |
 | How will you report results? |
