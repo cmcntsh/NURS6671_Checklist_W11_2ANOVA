@@ -39,8 +39,8 @@ You must use the concepts you learn in this course throughout the rest of your p
 | <br><br><br> |  | **Nominal**  | **Ordinal** | **Interval** | **Ratio** |
 | **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** |  |  |  |  |
 | <br><br><br> | **Ordinal** |  |  |  |  |
-| <br><br><br> | **Interval** | $\textcolor{red}{Add \ this \ test:}$ (2 categorical IV) two-way ANOVA<br>(skewed data) Kruskal-Wallis test | $\textcolor{red}{Add \ this \ test:}$ (2 categorical IV) two-way ANOVA<br>(skewed data) Kruskal-Wallis test |  |  |
-| <br><br><br> | **Ratio** | $\textcolor{red}{Add \ this \ test:}$ (2 categorical IV) two-way ANOVA<br>(skewed data) Kruskal-Wallis test | $\textcolor{red}{Add \ this \ test:}$ (2 categorical IV) two-way ANOVA<br>(skewed data) Kruskal-Wallis test |  |  |
+| <br><br><br> | **Interval** | $\textcolor{red}{Add \ this \ test:}$ (2 categorical IV) two-way ANOVA<br>(skewed data) Kruskal-Wallis test | $\textcolor{red}{Add \ this \ test:}$ (2 categorical IV) two-way ANOVA<br>(skewed data) Kruskal-Wallis test | (within-subjects and/or between-subjects IV) RMANOVA<br>(skewed data) Friedman's ANOVA | (within-subjects and/or between-subjects IV) RMANOVA<br>(skewed data) Friedman's ANOVA |
+| <br><br><br> | **Ratio** | $\textcolor{red}{Add \ this \ test:}$ (2 categorical IV) two-way ANOVA<br>(skewed data) Kruskal-Wallis test | $\textcolor{red}{Add \ this \ test:}$ (2 categorical IV) two-way ANOVA<br>(skewed data) Kruskal-Wallis test | (within-subjects and/or between-subjects IV) RMANOVA<br>(skewed data) Friedman's ANOVA | (within-subjects and/or between-subjects IV) RMANOVA<br>(skewed data) Friedman's ANOVA |
 
 <br><br><br>
 # Statistical Analysis/Critique Steps
